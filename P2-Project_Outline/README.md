@@ -27,6 +27,7 @@ Include Features here
 •	Use a GIF API so users can add their own reward gifs (and store favorites in a library for reuse? This is probably not MVP-level)
 •	REACT (or go back and improve Angular skills)
 •	User authentication to keep user information safe
+• Probably several other things I don't have a name for yet!
 
 ### Project Tracker
 My Trello board: https://trello.com/b/0slJ2JwW
